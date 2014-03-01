@@ -1,0 +1,32 @@
+{
+  "name": "handlebars-helper-regex",
+  "version": "0.0.2",
+  "description": "Handlebars extension to support block RegExp helpers.",
+  "keywords": [
+    "handlebars",
+    "hbs",
+    "helper",
+    "template",
+    "express",
+    "regexp",
+    "regex"
+  ],
+  "author": {
+    "name": "Dafydd Hill",
+    "email": "originaldavz@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {},
+  "engines": {
+    "node": ">=0.4.7"
+  },
+  "readme": "todo: coming soon",
+  "_id": "handlebars-helper-regex@0.0.2",
+  "_from": "handlebars-helper-regex@"
+}
