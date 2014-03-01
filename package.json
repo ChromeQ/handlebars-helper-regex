@@ -1,6 +1,6 @@
 {
   "name": "handlebars-helper-regex",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Handlebars extension to support block RegExp helpers.",
   "keywords": [
     "handlebars",
@@ -27,6 +27,6 @@
     "node": ">=0.4.7"
   },
   "readme": "todo: coming soon",
-  "_id": "handlebars-helper-regex@0.0.2",
+  "_id": "handlebars-helper-regex@0.0.3",
   "_from": "handlebars-helper-regex@"
 }
